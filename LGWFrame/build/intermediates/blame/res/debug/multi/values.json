@@ -1,0 +1,1081 @@
+[
+    {
+        "outputFile": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_photo_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endLine": 10,
+                        "endColumn": 19,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 49,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_dialog_values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 47,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_dialog_values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 47,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 57,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1641,
+                        "endColumn": 57,
+                        "endOffset": 1694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 55,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 55,
+                        "endOffset": 1109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 56,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 56,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 56,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 56,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 57,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 57,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 57,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1535,
+                        "endColumn": 57,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 58,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 58,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 52,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1340,
+                        "endColumn": 52,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 777,
+                    "endColumn": 54,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1249,
+                        "endColumn": 54,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endColumn": 55,
+                    "endOffset": 883
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_colors_holo.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 963,
+                        "endColumn": 55,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 888,
+                    "endColumn": 51,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 51,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 51,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 51,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 51,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 51,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 51,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 51,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 64,
+                    "endOffset": 1156
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 64,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1161,
+                    "endColumn": 60,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 60,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 50,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 50,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endColumn": 51,
+                    "endOffset": 1320
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 51,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1325,
+                    "endColumn": 51,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 51,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 55,
+                    "endOffset": 1428
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 55,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1433,
+                    "endColumn": 50,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endColumn": 45,
+                    "endOffset": 1525
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_dialog_values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1530,
+                    "endColumn": 53,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_dialog_values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 53,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3218,
+                    "endColumn": 57,
+                    "endOffset": 3271
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_dialog_values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 57,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3276,
+                    "endColumn": 55,
+                    "endOffset": 3327
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_dialog_values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 55,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3332,
+                    "endColumn": 64,
+                    "endOffset": 3392
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 64,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3397,
+                    "endColumn": 55,
+                    "endOffset": 3448
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3453,
+                    "endColumn": 52,
+                    "endOffset": 3501
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_dialog_values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 52,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3506,
+                    "endColumn": 41,
+                    "endOffset": 3543
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 41,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3548,
+                    "endColumn": 75,
+                    "endOffset": 3619
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_mints_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 75,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3624,
+                    "endColumn": 77,
+                    "endOffset": 3697
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_photo_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 77,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3702,
+                    "endColumn": 97,
+                    "endOffset": 3795
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_photo_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 97,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3800,
+                    "endColumn": 109,
+                    "endOffset": 3905
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_photo_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 109,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3910,
+                    "endColumn": 93,
+                    "endOffset": 3999
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_photo_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 93,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4004,
+                    "endColumn": 57,
+                    "endOffset": 4057
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 62,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4062,
+                    "endColumn": 62,
+                    "endOffset": 4120
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 67,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4125,
+                    "endColumn": 61,
+                    "endOffset": 4182
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 66,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4187,
+                    "endColumn": 56,
+                    "endOffset": 4239
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4244,
+                    "endColumn": 78,
+                    "endOffset": 4318
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 78,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4323,
+                    "endColumn": 62,
+                    "endOffset": 4381
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 62,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4386,
+                    "endColumn": 59,
+                    "endOffset": 4441
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 59,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4446,
+                    "endColumn": 74,
+                    "endOffset": 4516
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 74,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4521,
+                    "endColumn": 61,
+                    "endOffset": 4578
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_ptr_string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 66,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4583,
+                    "endColumn": 86,
+                    "endOffset": 4665
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 86,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4670,
+                    "endColumn": 81,
+                    "endOffset": 4747
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 81,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4752,
+                    "endColumn": 77,
+                    "endOffset": 4825
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 77,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4830,
+                    "endColumn": 92,
+                    "endOffset": 4918
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 92,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4923,
+                    "endColumn": 67,
+                    "endOffset": 4986
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 67,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4991,
+                    "endColumn": 52,
+                    "endOffset": 5039
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_dialog_values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 52,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5044,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 5177
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5182,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 5374
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5379,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 5580
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_core_styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5585,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 5879
+                },
+                "from": {
+                    "file": "F:\\workspace\\LGWFrame\\res\\values\\cube_dialog_styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 409
+                    }
+                }
+            }
+        ]
+    }
+]

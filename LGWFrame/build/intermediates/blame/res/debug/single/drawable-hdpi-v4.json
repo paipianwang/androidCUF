@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\findmore.png",
+        "source": "F:\\workspace\\LGWFrame\\res\\drawable-hdpi\\findmore.png"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newback.png",
+        "source": "F:\\workspace\\LGWFrame\\res\\drawable-hdpi\\newback.png"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress.png",
+        "source": "F:\\workspace\\LGWFrame\\res\\drawable-hdpi\\progress.png"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\showload.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\drawable-hdpi\\showload.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptr_rotate_arrow.png",
+        "source": "F:\\workspace\\LGWFrame\\res\\drawable-hdpi\\ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\LGWFrame\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cube_mints_icon_top_back.png",
+        "source": "F:\\workspace\\LGWFrame\\res\\drawable-hdpi\\cube_mints_icon_top_back.png"
+    }
+]

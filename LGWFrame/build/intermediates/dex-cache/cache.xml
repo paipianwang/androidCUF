@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\workspace\LGWFrame\libs\universal-image-loader-1.8.4-with-sources.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="eba3ec78458fcb9bdd8bb7eff1a2f6f26f8fa00a">
+        <dex dex="F:\workspace\LGWFrame\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.4-with-sources_8e0f65eb0213d03f1c4aaa80b676dbf7f16eea32.jar" />
+    </item>
+    <item
+        jar="F:\workspace\LGWFrame\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8431bd17cfdd422b15e37988f737946f63b00912">
+        <dex dex="F:\workspace\LGWFrame\build\intermediates\pre-dexed\debug\instant-run_2c6c0fea6170f4cab0bae6c96d5e3f18a9fc414a.jar" />
+    </item>
+    <item
+        jar="F:\workspace\LGWFrame\libs\mta-sdk-2.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c4c95497300609b780ecb0529519f38fd2c6922a">
+        <dex dex="F:\workspace\LGWFrame\build\intermediates\pre-dexed\debug\mta-sdk-2.0.3_13a5d72f5b2b8b4328fea5c65e516580be8cdcc0.jar" />
+    </item>
+    <item
+        jar="F:\workspace\LGWFrame\libs\mid-sdk-2.10.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5b8c105b39a07ec1c2ca81919d64eac5482dca87">
+        <dex dex="F:\workspace\LGWFrame\build\intermediates\pre-dexed\debug\mid-sdk-2.10_257dd8d38a24cc51e0987be22a697280f31e440e.jar" />
+    </item>
+    <item
+        jar="F:\workspace\LGWFrame\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cb6883d96005bc85b3e868f204507ea5b4fa9bbf">
+        <dex dex="F:\workspace\LGWFrame\build\intermediates\pre-dexed\debug\android-support-v4_d741ad4aa0eff0c8aa02de76ca020757e1c62710.jar" />
+    </item>
+    <item
+        jar="F:\workspace\LGWFrame\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="F:\workspace\LGWFrame\build\intermediates\pre-dexed\debug\gson-2.2.4_ea4cff84a61899b903490b67ab9a8cf63c9d7584.jar" />
+    </item>
+    <item
+        jar="F:\workspace\LGWFrame\libs\cron4j-2.2.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="da0dd0edee48b570cd1e23895e0ac80e09eb272b">
+        <dex dex="F:\workspace\LGWFrame\build\intermediates\pre-dexed\debug\cron4j-2.2.5_17bd884c6eccc46d0456e2953fd0f35538991366.jar" />
+    </item>
+    <item
+        jar="F:\workspace\LGWFrame\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="adcab2f9223f0f2b4903125e6e06ce180e934e04">
+        <dex dex="F:\workspace\LGWFrame\build\intermediates\pre-dexed\debug\classes_7e6393b7c64cdaee0a388a01d1c359baaba55345.jar" />
+    </item>
+
+</items>

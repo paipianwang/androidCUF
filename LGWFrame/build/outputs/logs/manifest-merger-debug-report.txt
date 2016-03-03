@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:3:5-29
+	android:versionName
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:5:5-30
+		INJECTED from F:\workspace\LGWFrame\AndroidManifest.xml
+		INJECTED from F:\workspace\LGWFrame\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:4:5-28
+		INJECTED from F:\workspace\LGWFrame\AndroidManifest.xml
+		INJECTED from F:\workspace\LGWFrame\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:8:9-34
+uses-permission#android.permission.RUN_INSTRUMENTATION
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:11:22-75
+uses-permission#android.permission.INTERNET
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:13:22-78
+application
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:15:5-30:19
+	android:label
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:18:9-45
+	android:name
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:16:10-64
+activity#com.pangfeng.frame.simple.SimpleOtherActivity
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:22:9-29:20
+	android:label
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:23:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from F:\workspace\LGWFrame\AndroidManifest.xml:27:27-74

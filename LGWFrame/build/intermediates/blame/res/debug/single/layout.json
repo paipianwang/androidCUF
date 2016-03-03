@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\more_new_head_v2.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\more_new_head_v2.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_fragment_block_menu.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\cube_mints_base_fragment_block_menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\cube_views_load_more_default_footer.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\cube_views_load_more_default_footer.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\newtop_title1.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\newtop_title1.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\new_second_top_title.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\new_second_top_title.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_header_bar_title.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\cube_mints_base_header_bar_title.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_content_frame_with_title_header.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\cube_mints_base_content_frame_with_title_header.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\success.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\success.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\common_foot.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\common_foot.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_block_menu_item.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\cube_mints_base_block_menu_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\LGWFrame\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "F:\\workspace\\LGWFrame\\res\\layout\\test.xml"
+    }
+]
