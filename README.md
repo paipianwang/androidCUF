@@ -44,15 +44,25 @@ Developers can fast and easy to build project.
 						super.onLoading(total, current, isDownloading);
 					}
 				});
-				
-				图片加载（更多示例使用可以参考SimpleForFrame）
+图片加载（更多示例使用可以参考SimpleForFrame）
 				
 				ImageLoaderImpl.instance.getNetImage("webUrl", image);
 				
-				数据库（更多示例使用可以参考SimpleForFrame）
+数据库（更多示例使用可以参考SimpleForFrame）
 				DBKit.delete(entitys);
 				
 				
+通知栏
+
+	MessageNotifImpl.instance.showNotification(context, R.drawable.ic_launcher, "notificationWord", "contentTitle",                "contentText", MainActivity.class);
+		
+		
+		RemoteViews rv = new RemoteViews(getPackageName(),
+				R.layout.custom_notification);
+		rv.setImageViewResource(R.id.image, R.drawable.ic_launcher);
+		rv.setTextViewText(R.id.titie, "这是标题");
+		rv.setTextViewText(R.id.text, "这里是内容");
+		MessageNotifImpl.instance.showMyNotification(context,  MainActivity.class,R.drawable.ic_launcher,                              "notificationWord", "contentTitle", "contentText", false, rv);
   
   
   关于作者
