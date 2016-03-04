@@ -17,4 +17,9 @@ Developers can fast and easy to build project.
  ![image](https://github.com/paipianwang/androidCUF/blob/master/image/build.png)
  流程图
  ![image](https://github.com/paipianwang/androidCUF/blob/master/image/init.png)
+ 
+ 使用时请先建立Config类并且继承FrameInit
+ 在addPlusgin里添加要使用的模块插件（或自己制作的插件）
+ 
+ 
 
