@@ -53,8 +53,7 @@ Developers can fast and easy to build project.
 				
 				
 通知栏
-
-	MessageNotifImpl.instance.showNotification(context, R.drawable.ic_launcher, "notificationWord", "contentTitle",                "contentText", MainActivity.class);
+MessageNotifImpl.instance.showNotification(context, R.drawable.ic_launcher, "notificationWord", "contentTitle", "contentText", MainActivity.class);         
 		
 		
 		RemoteViews rv = new RemoteViews(getPackageName(),
