@@ -22,7 +22,7 @@ Developers can fast and easy to build project.
  在addPlusgin里添加要使用的模块插件（或自己制作的插件）
   ![image](https://github.com/paipianwang/androidCUF/blob/master/image/config.png)
   
-  主要功能使用可以参考Simple
+  主要功能使用可以参考SimpleForFrame
   
   
  
