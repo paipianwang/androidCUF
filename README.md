@@ -22,7 +22,43 @@ Developers can fast and easy to build project.
  在addPlusgin里添加要使用的模块插件（或自己制作的插件）
   ![image](https://github.com/paipianwang/androidCUF/blob/master/image/config.png)
   
-  主要功能使用可以参考SimpleForFrame
+ 
+  
+  
+  网络（更多示例使用可以参考SimpleForFrame）
+  
+  		NetUtilsKit.DownLoadFile("url", "filepath", new MyCallBack<File>());
+		// 显示进度
+		NetUtilsKit.DownLoadFile("url", "filepath",
+				new MyProgressCallBack<File>() {
+					public void onSuccess(File result) {
+						super.onSuccess(result);
+					}
+
+					public void onError(Throwable ex, boolean isOnCallback) {
+						super.onError(ex, isOnCallback);
+					}
+
+					public void onLoading(long total, long current,
+							boolean isDownloading) {
+						super.onLoading(total, current, isDownloading);
+					}
+				});
+				
+				图片加载（更多示例使用可以参考SimpleForFrame）
+				
+				ImageLoaderImpl.instance.getNetImage("webUrl", image);
+				
+				数据库（更多示例使用可以参考SimpleForFrame）
+				DBKit.delete(entitys);
+				
+				
+  
+  
+  关于作者
+
+Email： 694174250@qq.com, 18210367466@163.com
+有任何建议或者使用中遇到问题都可以给我发邮件
   
   
  
