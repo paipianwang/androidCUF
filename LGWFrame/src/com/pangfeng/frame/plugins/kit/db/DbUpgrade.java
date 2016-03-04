@@ -3,10 +3,6 @@ package com.pangfeng.frame.plugins.kit.db;
 
 import org.xutils.DbManager;
 
-import com.panfeng.shining.db.MyUpgradeDbInterface;
-
-import android.util.Log;
-
 public class DbUpgrade implements DbManager.DbUpgradeListener {
 
 	/**

@@ -1,24 +1,18 @@
 package com.pangfeng.frame.utils;
 
+import in.srain.cube.util.updateapk.Common;
 import in.srain.cube.util.updateapk.ContextKeeper;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
-import tyu.common.utils.TyuCommon;
-import tyu.common.utils.TyuContextKeeper;
-
-import com.panfeng.shining.threadpool.TaskHandlerThreadPool;
-import com.panfeng.shining.tools.CoinDialogTools;
-import com.panfeng.shining.tools.UserCoinControl;
-import com.panfeng.shining.widgets.UpdateManager;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Environment;
-import android.util.Log;
+
+import com.pangfeng.frame.utils.pool.TaskHandlerThreadPool;
 
 public class CommonTools {
 
@@ -67,36 +61,36 @@ public class CommonTools {
 	static public void checkNewVersion(final Activity aActivity) {
 		final Context context = aActivity;
 
-		if (TyuCommon.isAnotherDay(context)) {
-
-			TaskHandlerThreadPool.getInstance().submit(new Runnable() {
-
-				@Override
-				public void run() {
-
-					final StringBuffer sb = new StringBuffer();
-					boolean res = UpdateManager.checkNewVersion(sb);
-					if (res) {
-						ContextKeeper.doUiTask(new Runnable() {
-							@Override
-							public void run() {
-								try {
-
-									UpdateManager.showUpdateInfo(aActivity,
-											sb.toString());
-
-								} catch (Exception e) {
-									// TODO Auto-generated catch block
-									e.printStackTrace();
-								}
-							}
-						});
-
-					}
-
-				}
-			});
-		}
+//		if (Common.isAnotherDay(context)) {
+//
+//			TaskHandlerThreadPool.getInstance().submit(new Runnable() {
+//
+//				@Override
+//				public void run() {
+//
+//					final StringBuffer sb = new StringBuffer();
+//					boolean res = UpdateManager.checkNewVersion(sb);
+//					if (res) {
+//						ContextKeeper.doUiTask(new Runnable() {
+//							@Override
+//							public void run() {
+//								try {
+//
+//									UpdateManager.showUpdateInfo(aActivity,
+//											sb.toString());
+//
+//								} catch (Exception e) {
+//									// TODO Auto-generated catch block
+//									e.printStackTrace();
+//								}
+//							}
+//						});
+//
+//					}
+//
+//				}
+//			});
+//		}
 	}
 
 }

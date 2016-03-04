@@ -19,7 +19,7 @@ public class MyConfig extends FrameworkInit {
 
 	@Override
 	public void addPlugin(Plugins me) {
-		// TODO Auto-generated method stub
+
 		me.add(new NetUtilsPlugins());
 		me.add(new DBPlugins("dbname","dbSavePath"));
 		me.add(new ImageLoaderPlugins());

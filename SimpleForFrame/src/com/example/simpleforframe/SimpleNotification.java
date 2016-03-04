@@ -3,7 +3,7 @@ package com.example.simpleforframe;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class Main2Activity extends Activity {
+public class SimpleNotification extends Activity {
 
 
         @Override
